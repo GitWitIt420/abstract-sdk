@@ -68,7 +68,7 @@
     "standard-version": "^9.5.0"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "^7.9.6",
+    "@babel/runtime-corejs3": "^7.26.9",
     "@elasticprojects/abstract-cli": "13.4.3",
     "core-js": "^3.6.5",
     "cross-fetch": "^3.0.1",
