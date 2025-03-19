@@ -70,7 +70,7 @@
   "dependencies": {
     "@babel/runtime-corejs3": "^7.9.6",
     "@elasticprojects/abstract-cli": "13.4.3",
-    "core-js": "^3.6.5",
+    "core-js": "^3.40.0",
     "cross-fetch": "^3.0.1",
     "debug": "^4.0.1",
     "invariant": "^2.2.4",
