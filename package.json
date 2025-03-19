@@ -71,7 +71,7 @@
     "@babel/runtime-corejs3": "^7.9.6",
     "@elasticprojects/abstract-cli": "13.4.3",
     "core-js": "^3.6.5",
-    "cross-fetch": "^3.0.1",
+    "cross-fetch": "^3.2.0",
     "debug": "^4.0.1",
     "invariant": "^2.2.4",
     "js-sha256": "^0.9.0",
